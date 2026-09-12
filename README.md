@@ -253,3 +253,6 @@ This repository serves as the official landing page for Leawo Video Converter. T
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Leawo Video Converter today!**
+
+---
+**Last updated:** 2026-09-12 21:19:14 UTC
